@@ -1,2 +1,2 @@
-<h1 style="color: red"> This project is bla-bla bla blah bleh blya bla blo... </h1> <br>
-<p> ![Demo Screenshot](./images/cat.gif) </p>
+<h1> This project is bla-bla bla blah bleh blya bla blo... </h1> <br>
+<img src="/images/cat.gif"></img>
