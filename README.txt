@@ -1,2 +1,3 @@
 This project is bla-bla bla blah bleh blya bla blo...
 ![GitHub stars](https://img.shields.io/github/stars/ArtemSapehin/important)
+![Demo Screenshot](./images/cat.gif)
